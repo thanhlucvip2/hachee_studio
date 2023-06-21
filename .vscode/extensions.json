@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "adam-bender.commit-message-editor",
+    "pranaygp.vscode-css-peek",
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "ritwickdey.LiveServer",
+    "PKief.material-icon-theme",
+    "s3gf4ult.monokai-vibrant",
+    "cweijan.vscode-mysql-client2",
+    "christian-kohler.npm-intellisense",
+    "csstools.postcss",
+    "esbenp.prettier-vscode",
+    "cobaltblu27.rainbow-highlighter",
+    "humao.rest-client",
+    "SubC4i.sublime-mavensmate-monokai-apex",
+    "bradlc.vscode-tailwindcss",
+    "shardulm94.trailing-spaces",
+    "pmneo.tsimporter",
+    "redhat.vscode-yaml"
+  ]
+}
