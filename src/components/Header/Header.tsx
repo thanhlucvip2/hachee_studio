@@ -12,7 +12,7 @@ const Header = () => {
               <li>Blogs</li>
             </ul>
             <div className="logo">
-                <img src="logo.png" alt="" />
+              <img src="logo.png" alt="" />
             </div>
             <ul>
               <li>

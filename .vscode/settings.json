@@ -1,0 +1,20 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.ignorePaths": [
+    "package-lock.json",
+    "package.json",
+    "node_modules",
+    "vscode-extension",
+    ".git/objects",
+    ".vscode",
+    ".vscode-insiders",
+    ".eslintrc.js"
+  ],
+  "cSpell.ignoreWords": ["Swiper"],
+  "cSpell.words": ["datepicker", "heroicons", "languagedetector"]
+}
